@@ -1,6 +1,6 @@
 # grunt-tasty-swig
 
-> Process templates by swig
+> Grunt preprocess and templating plugin using swig
 
 ## Getting Started
 This plugin requires Grunt `~0.4.1`
